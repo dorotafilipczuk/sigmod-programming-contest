@@ -1,7 +1,7 @@
 # sigmod-programming-contest
 
-The dataset directory currently contains only the matching cameras file. To run
-the code that converts that file into the submission format, type:
+The "dataset" directory currently contains only the "matching_cameras.json"
+file. To  run the code that converts that file into the submission format, type:
 
 python3 transitive_closure.py
 
