@@ -7,11 +7,18 @@ generate_csv() turns the grouppings into the submission format (pairs).
 compare() separates the correct matchings from the incorrect ones,
 according to the labelled dataset.
 
+create_extra_labelled_set() creates an extra labelled dataset:
+"extra_labelled_data.csv".
+
+exclude_matched() deletes the matched JSON files from the original specs
+dataset. This is how the updated dataset has been created.
+
 Author: dorotafilipczuk
 """
 
+import os
 from os import listdir
-from os.path import isfile, isdir, join
+from os.path import isfile, isdir, join, exists
 import json
 
 def get_wikipedia_brands():
@@ -131,7 +138,6 @@ def generate_csv():
 
             i = 1
             while i < len(lines):
-                #print(lines[i])
                 item1 = lines[i].split(",")[0]
                 item2 = lines[i].split(",")[1]
                 result = lines[i].split(",")[2].rstrip()
@@ -143,7 +149,6 @@ def generate_csv():
                 if item2 not in matchings:
                     matchings[item2] = dict()
                 matchings[item2][item1] = result
-                #print(matchings)
                 i = i + 1
         print("Part 1 Done!")
 
@@ -171,7 +176,60 @@ def generate_csv():
         bad.close()
         print("Part 2 Done!")
 
+def create_extra_labelled_set():
+    submission_lines = ""
+    with open("all_submissions.csv", "r") as submissions_file:
+        submission_lines = submissions_file.readlines()
+
+    with open("bad.csv", "r") as bad_file:
+        bad_lines = bad_file.readlines()
+
+        for line in bad_lines:
+            submission_lines.remove(line)
+
+    submission_lines[0] = submission_lines[0].rstrip() + ",label\n"
+    i = 1
+    while i < len(submission_lines):
+        submission_lines[i] = submission_lines[i].rstrip() + ",1\n"
+        i = i + 1
+
+    with open("extra_labelled_data.csv", "w") as labelled_file:
+        for line in submission_lines:
+            labelled_file.write(line)
+
+    print("Done!")
+
+def exclude_matched():
+    submission_lines = ""
+    with open("all_submissions.csv", "r") as submissions_file:
+        submission_lines = submissions_file.readlines()
+
+    with open("bad.csv", "r") as bad_file:
+        bad_lines = bad_file.readlines()
+
+        for line in bad_lines:
+            submission_lines.remove(line)
+
+    i = 1
+    while i < len(submission_lines):
+        line = submission_lines[i].rstrip().split(",")
+
+        for item in line:
+            arr = item.split("//")
+            foldername = arr[0]
+            filename = arr[1] + ".json"
+
+            path = join('./2013_camera_specs', foldername, filename)
+
+            if exists(path):
+                os.remove(path)
+
+        i = i + 1
+
+    print("Done!")
 
 print_versions()
 generate_csv()
 compare()
+create_extra_labelled_set()
+exclude_matched()
