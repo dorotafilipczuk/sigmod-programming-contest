@@ -10,11 +10,15 @@ according to the labelled dataset.
 create_extra_labelled_set() creates an extra labelled dataset:
 "extra_labelled_data.csv".
 
+exclude_matched() deletes the matched JSON files from the original specs
+dataset. This is how the updated dataset has been created.
+
 Author: dorotafilipczuk
 """
 
+import os
 from os import listdir
-from os.path import isfile, isdir, join
+from os.path import isfile, isdir, join, exists
 import json
 
 def get_wikipedia_brands():
@@ -195,8 +199,37 @@ def create_extra_labelled_set():
 
     print("Done!")
 
+def exclude_matched():
+    submission_lines = ""
+    with open("all_submissions.csv", "r") as submissions_file:
+        submission_lines = submissions_file.readlines()
+
+    with open("bad.csv", "r") as bad_file:
+        bad_lines = bad_file.readlines()
+
+        for line in bad_lines:
+            submission_lines.remove(line)
+
+    i = 1
+    while i < len(submission_lines):
+        line = submission_lines[i].rstrip().split(",")
+
+        for item in line:
+            arr = item.split("//")
+            foldername = arr[0]
+            filename = arr[1] + ".json"
+
+            path = join('./2013_camera_specs', foldername, filename)
+
+            if exists(path):
+                os.remove(path)
+
+        i = i + 1
+
+    print("Done!")
 
 print_versions()
 generate_csv()
 compare()
 create_extra_labelled_set()
+exclude_matched()
