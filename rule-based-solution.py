@@ -7,6 +7,9 @@ generate_csv() turns the grouppings into the submission format (pairs).
 compare() separates the correct matchings from the incorrect ones,
 according to the labelled dataset.
 
+create_extra_labelled_set() creates an extra labelled dataset:
+"extra_labelled_data.csv".
+
 Author: dorotafilipczuk
 """
 
@@ -131,7 +134,6 @@ def generate_csv():
 
             i = 1
             while i < len(lines):
-                #print(lines[i])
                 item1 = lines[i].split(",")[0]
                 item2 = lines[i].split(",")[1]
                 result = lines[i].split(",")[2].rstrip()
@@ -143,7 +145,6 @@ def generate_csv():
                 if item2 not in matchings:
                     matchings[item2] = dict()
                 matchings[item2][item1] = result
-                #print(matchings)
                 i = i + 1
         print("Part 1 Done!")
 
@@ -171,7 +172,31 @@ def generate_csv():
         bad.close()
         print("Part 2 Done!")
 
+def create_extra_labelled_set():
+    submission_lines = ""
+    with open("all_submissions.csv", "r") as submissions_file:
+        submission_lines = submissions_file.readlines()
+
+    with open("bad.csv", "r") as bad_file:
+        bad_lines = bad_file.readlines()
+
+        for line in bad_lines:
+            submission_lines.remove(line)
+
+    submission_lines[0] = submission_lines[0].rstrip() + ",label\n"
+    i = 1
+    while i < len(submission_lines):
+        submission_lines[i] = submission_lines[i].rstrip() + ",1\n"
+        i = i + 1
+
+    with open("extra_labelled_data.csv", "w") as labelled_file:
+        for line in submission_lines:
+            labelled_file.write(line)
+
+    print("Done!")
+
 
 print_versions()
 generate_csv()
 compare()
+create_extra_labelled_set()
