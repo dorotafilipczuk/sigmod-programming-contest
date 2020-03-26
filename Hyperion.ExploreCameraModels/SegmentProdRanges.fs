@@ -333,9 +333,11 @@ module SegmentProdRanges =
         /// will match.
         /// 
         /// Example regex string: `^(?=.*\bOlympus\b)(?=.*\bAir\b).*$`
-        let searchNameRegEx tokenizedModelName =
+        let searchNameRegEx (tokenizedModelName: seq<string>) =
             [ for token in tokenizedModelName do
-                  sprintf "(?=.*\\b%s\\b)" token ]
+                  let tokenMatchHyphenOrSpace =
+                      token.Replace("-", "( |-)")
+                  sprintf "(?=.*\\b%s\\b)" tokenMatchHyphenOrSpace ]
             |> String.concat ""
             |> sprintf "^%s.*$"
 
@@ -477,6 +479,11 @@ module SegmentProdRanges =
                         |> tokenizedModelNames
                     x, nameRegexes)
 
+            let setOfCameraIds =
+                pageTitles
+                |> Array.map fst
+                |> Set.ofArray
+
             let subsetMap =
                 modelRegexes
                 |> mapOfSubsetRegexes
@@ -494,45 +501,55 @@ module SegmentProdRanges =
                     then modelName, matchingIds |> Set.ofArray ]
                 |> Map.ofList
 
-            [ for modelName in modelNames do
-                if matchingModelIds |> Map.containsKey modelName
-                then
-                    let modelSet =
-                        matchingModelIds
-                        |> Map.find modelName
-
-                    let subsetModels =
-                        subsetMap
-                        |> Map.find modelName
-
-                    let subsets =
-                        matchingModelIds
-                        |> Map.filter (fun key value ->
-                            subsetModels
-                            |> List.contains key)
-                        |> Map.toSeq
-                        |> Seq.map snd
-                        |> Set.unionMany
-                    
-                    let modelSetMinimal = modelSet - subsets
-
-                    if subsets |> Set.isEmpty |> not
+            let groupedModels =
+              [ for modelName in modelNames do
+                    if matchingModelIds |> Map.containsKey modelName
                     then
-                        printfn "%s %d" modelName (Set.count subsets)
-                        printfn "%d" (Set.count modelSetMinimal)
-                    
-                    (modelName, modelSetMinimal |> Set.toArray) ]
-            |> toDictionary
+                        let modelSet =
+                            matchingModelIds
+                            |> Map.find modelName
+
+                        let subsetModels =
+                            subsetMap
+                            |> Map.find modelName
+
+                        let subsets =
+                            matchingModelIds
+                            |> Map.filter (fun key value ->
+                                subsetModels
+                                |> List.contains key)
+                            |> Map.toSeq
+                            |> Seq.map snd
+                            |> Set.unionMany
+                        
+                        let modelSetMinimal = modelSet - subsets
+
+                        if subsets |> Set.isEmpty |> not
+                        then
+                            printfn "%s %d" modelName (Set.count subsets)
+                            printfn "%d" (Set.count modelSetMinimal)
+                        
+                        (modelName, modelSetMinimal |> Set.toArray) ]
+
+            let matchedCameraIds =
+                groupedModels
+                |> Array.ofList
+                |> Array.collect snd
+                |> Set.ofArray
+
+            let unmatchedCameraListings =
+                setOfCameraIds - matchedCameraIds
+                |> Set.toArray
+
+            groupedModels, unmatchedCameraListings
 
         /// Match camera brands and camera models in DPReview to cameras listing
         /// page titles in the given dataset.
-        let private searchAndGroupGeneric dpreviewSpecsFilePath =
-            let allFiles =
-                DataRetrieval.allDicts()
-            let dpreviewBrandCount =
-                allFiles
-                |> GroupBrands.countDPReviewBrands
-
+        let private searchAndGroupGeneric
+                (allFiles: CamIdDictTyple [])
+                (dpreviewBrandCount: list<CameraId * list<string * int>>)
+                includeUnmatched
+                dpreviewSpecsFilePath =
             let searchAndGroupGivenBrand cameraBrand =
                 printfn "\nsearching for models of %s" cameraBrand.Name
 
@@ -552,25 +569,30 @@ module SegmentProdRanges =
 
             [ for brand in brandRanges do
                 async {
-                    let groupedBrands = searchAndGroupGivenBrand brand
+                    let (groupedBrands, unmatchedIds) = searchAndGroupGivenBrand brand
                     printfn "completed searching for models of %s" brand.Name
-                    return brand.Name, groupedBrands
+                    let models =
+                        if includeUnmatched
+                        then groupedBrands @ ["Unmatched", unmatchedIds]
+                        else groupedBrands
+                        |> toDictionary
+                    return brand.Name, models
                  } ]
             |> Async.Parallel
             |> Async.RunSynchronously
-            |> Array.filter (fun (x, y) -> y.Count > 0)
+            |> Array.filter (fun (_, y) -> y.Count > 0)
             |> List.ofArray
 
         /// Search and group camera listing IDs based on camera brand and
         /// camera model.
-        let searchAndGroupVerbose dpreviewSpecsFilePath =
+        let searchAndGroupVerbose listings brandCount dpreviewSpecsFilePath =
             dpreviewSpecsFilePath
-            |> searchAndGroupGeneric
+            |> searchAndGroupGeneric listings brandCount true // include unmatched IDs in verbose output
             |> toDictionary
 
         /// Search and group camera list IDs into arrays of equivalent cameras.
-        let searchAndGroupMinimal dpreviewSpecsFilePath =
+        let searchAndGroupMinimal listings brandCount dpreviewSpecsFilePath =
             dpreviewSpecsFilePath
-            |> searchAndGroupGeneric
+            |> searchAndGroupGeneric listings brandCount false // don't include unmatched as all arrays are assumed to contain matching IDs
             |> List.toArray
             |> Array.collect (snd >> (fun x -> x.Values |> Array.ofSeq))

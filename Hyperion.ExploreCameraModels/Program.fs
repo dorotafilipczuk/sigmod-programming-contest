@@ -180,24 +180,24 @@ module Main =
         |> groupedModelsToDicts
         |> serialiseData "camera-ranges.json"
 
-    let serialiseSearchVerbose filenameSuffix =
+    let serialiseSearchVerbose listings brandCount filenameSuffix =
         let filename =
             filenameSuffix
             |> sprintf "equivalent-camera-verbose-%s.json"
 
         Path.Combine("..", "ScrapyScrape", "dpreview_cams.json")
-        |> searchAndGroupVerbose
+        |> searchAndGroupVerbose listings brandCount
         |> serialiseData filename
 
         printfn "saved %s" filename
 
-    let serialiseSearchMinimal filenameSuffix =
+    let serialiseSearchMinimal listings brandCount filenameSuffix =
         let filename =
             filenameSuffix
             |> sprintf "equivalent-cameras-%s.json"
 
         Path.Combine("..", "ScrapyScrape", "dpreview_cams.json")
-        |> searchAndGroupMinimal
+        |> searchAndGroupMinimal listings brandCount
         |> serialiseData filename
 
         printfn "saved %s" filename
@@ -242,7 +242,13 @@ module Main =
 
     [<EntryPoint>]
     let main argv =
-        serialiseSearchMinimal "4"
-        serialiseSearchVerbose "4"
+        let allFiles =
+            allDicts()
+        let dpreviewBrandCount =
+            allFiles
+            |> countDPReviewBrands
+
+        serialiseSearchMinimal allFiles dpreviewBrandCount "7"
+        serialiseSearchVerbose allFiles dpreviewBrandCount "7"
 
         0 // return an integer exit code

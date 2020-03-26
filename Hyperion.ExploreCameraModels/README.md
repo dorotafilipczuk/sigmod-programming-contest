@@ -6,8 +6,8 @@ Two most important source files are [GroupBrands.fs](GroupBrands.fs), used to se
 
 [groupedByBrand.json](/Hyperion.ExploreCameraModels/groupedByBrand.json) - contains the camera listing IDs that contain only one brand from DPReview (about 20,000 in total), no brand (about 10,000) and multi brands from DPReview.
 
-[equivalent-camera-verbose-4.json](/Hyperion.ExploreCameraModels/equivalent-camera-verbose-4.json) - contains the camera listing IDs grouped first by brand and then by model. Unmatched models for a given brand possess the key `"Unmatched"`.
+[equivalent-camera-verbose-7.json](/Hyperion.ExploreCameraModels/equivalent-camera-verbose-7.json) - contains the camera listing IDs grouped first by brand and then by model. Unmatched models for a given brand possess the key `"Unmatched"`. In comparison to versio 4, now hyphens are optional so `Tough TG 5` and `Tough TG-5` are assumed to be the same camera.
 
-[equivalent-cameras-4.json](/Hyperion.ExploreCameraModels/equivalent-cameras-4.json) - contains the camera listing IDs from above, but simply as an array of arrays, each inner array means that the cameras listings are for the same model.
+[equivalent-cameras-7.json](/Hyperion.ExploreCameraModels/equivalent-cameras-7.json) - contains the camera listing IDs from above, but simply as an array of arrays, each inner array means that the cameras listings are for the same model.
 
 See `/matchings` and `/matchings-detailed` for previous approaches taken, with the 4th in both cases assumed to be the most accurate.
