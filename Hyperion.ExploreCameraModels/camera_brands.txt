@@ -1,0 +1,384 @@
+"Canon", 3858
+"Nikon", 3303
+"Sony", 2099
+"Olympus", 946
+"Fujifilm", 933
+"Panasonic", 716
+"Samsung", 677
+"Kodak", 670
+"Pentax", 372
+"Vivitar", 166
+"Casio", 159
+"Leica", 113
+"Polaroid", 101
+"GE", 90
+"HP", 87
+"Ricoh", 69
+"Carbose", 61
+"GoPro", 58
+"Konica Minolta", 54
+"SVP", 51
+"Nikon Web Site", 49
+"Sanyo", 45
+"Fuji", 39
+"Canon Web Site", 33
+"Vizio", 31
+"Minolta", 27
+"Coleman", 24
+"FVANOR", 24
+"Bell & Howell", 22
+"Sakar", 21
+"Sigma", 20
+"As customer's request", 18
+"Toshiba", 18
+"Unbranded/Generic", 17
+"LG", 17
+"Philips", 16
+"Lytro", 15
+"Telesin", 14
+"for Canon SX510", 13
+"SeaLife", 12
+"[
+        "Pentax",
+        "Pentax"
+    ]", 10
+"Sony Web Site", 10
+"Hasselblad", 10
+"Digital Blue Corporation", 10
+"Aiptek", 10
+"Emerson", 10
+"SHOOT", 9
+"VistaQuest", 9
+"Cobra Digital", 9
+"Disney", 9
+"Naxa", 9
+"[
+        "Canon",
+        "Canon"
+    ]", 8
+"[
+        "Nikon",
+        "Nikon"
+    ]", 8
+"Minox", 8
+"BenQ", 8
+"Argus", 8
+"Sharp", 8
+"RCA", 8
+"Samsung Web Site", 7
+"Superheadz", 7
+"Lowrance", 7
+"Oregon Scientific", 7
+"SJ4000", 7
+"Insignia", 7
+"Vtech", 6
+"Easypix", 6
+"JVC", 6
+"Magnavox", 6
+"godspeed", 5
+"Digital Blue", 5
+"DXG TECHNOLOGY", 5
+"Fotopix", 5
+"Epson", 5
+"DXG", 5
+"INTOVA", 5
+"Toi Kamera", 5
+"Tamron", 5
+"Yourdeal", 5
+"CXIN", 4
+"YAXIUMEI or OEM", 4
+"Digital Concepts", 4
+"Sharper Image", 4
+"Mattel", 4
+"Sylvania", 4
+"Fisher Price", 4
+"Mustek", 4
+"Garmin", 4
+"Coby", 4
+"Lowepro", 4
+"YourDeal", 4
+"for Panasonic GM1", 3
+"Caden", 3
+"Crayola", 3
+"unknown", 3
+"Bushnell", 3
+"Brinno", 3
+"Hello Kitty", 3
+"Limited Too", 3
+"Vibe", 3
+"Shimano", 3
+"Apple", 3
+"Jazz", 3
+"DJI", 3
+"sciwin", 3
+"easypix", 3
+"Flip Video", 3
+"LG Electronics", 3
+"Pioneer", 3
+"Supersonic", 3
+"DigiFlip", 3
+"Wespro", 3
+"[
+        "Olympus",
+        "Olympus"
+    ]", 2
+"comers", 2
+"CarBose", 2
+"XT or Customer's Brand", 2
+"Telesin or custom", 2
+"precision", 2
+"Innovage", 2
+"Topixo", 2
+"Phase One", 2
+"Global Point", 2
+"Little Acorn", 2
+"Humminbird", 2
+"Yashica", 2
+"Apex Digital", 2
+"Slick", 2
+"The Sharper Image", 2
+"Praktica", 2
+"Kyocera", 2
+"fotopix", 2
+"Monoprice", 2
+"SiPix", 2
+"MotorolaThis is a nice, Motorola", 2
+"Contax", 2
+"Vivitar & Samsung", 2
+"Spongebob", 2
+"Discovery Kids", 2
+"KEEDOX", 2
+"Mitsuba", 2
+"Agfa", 2
+"Contour, Inc", 2
+"unbranded 252 generic", 2
+"Panasonic Limix", 2
+"Mikona", 2
+"iClick", 2
+"intova", 2
+"Advancedplus", 2
+"CHOBi", 2
+"Midland", 2
+"Gizmon", 2
+"VuPoint Solutions", 2
+"Gateway", 2
+"Element", 2
+"Proscan", 2
+"Mitsubishi", 2
+"Zenith", 2
+"GLOBAL POINT", 2
+"QuantumFx", 2
+"Westinghouse", 2
+"Skyworth", 2
+"SeaLife ReefMaster", 2
+"new", 2
+"Rollei", 2
+"Benq", 2
+"Drift", 2
+"Tvc", 2
+"General Electric", 2
+"Blackmagic Design", 1
+"[
+        "Sony",
+        "Sony"
+    ]", 1
+"[
+        "Focus",
+        "Sony"
+    ]", 1
+"[
+        "Samsung",
+        "Samsung"
+    ]", 1
+"[
+        "NikonEu",
+        "Nikon"
+    ]", 1
+"Opteka", 1
+"for Canon G1X Mark II", 1
+"For Nikon P60", 1
+"CLASS", 1
+"G.T or as per customer's requirement", 1
+"anxu or Customer's brand", 1
+"OEM (digital bag)", 1
+"NEOpine", 1
+"For Nikon S2", 1
+"Regent Sports", 1
+"FujiFilm Web Site", 1
+"Kenko", 1
+"Lexar Media", 1
+"Kogan", 1
+"Ximea", 1
+"Zeiss", 1
+"Horseman", 1
+"Cambo", 1
+"GE General Imaging", 1
+"Tandberg", 1
+"AgfaPhoto", 1
+"LTL Acorn", 1
+"Kowa", 1
+"Jazz Dv150", 1
+"Palm Clix", 1
+"MUSTEK", 1
+"Alpine", 1
+"Cobra", 1
+"Kodak, Samsung, Vivitar, Canon , Olympus", 1
+"BlackMagicDesign", 1
+"PYLE-SPORT", 1
+"Garmin Parts", 1
+"Fotoman", 1
+"MEGA PRO", 1
+"digital camera", 1
+"Unbranded", 1
+"Kobian Group", 1
+"NIK", 1
+"IMAGING APPARATUS", 1
+"2000 IXLA", 1
+"EOS", 1
+"Pioneer Research", 1
+"Mobius", 1
+"Moultrie Feeders", 1
+"Islands Earth", 1
+"Pure Digital", 1
+"Lifeworks", 1
+"sakar", 1
+"BlackMagic Design", 1
+"Nokia", 1
+"SEARS", 1
+"Optimus", 1
+"D-LINK", 1
+"Logitech", 1
+"Winait", 1
+"Vivitar, Kodak, Sanyo, Nikon", 1
+"Motorola", 1
+"VTech", 1
+"aquapix", 1
+"TrendNet", 1
+"Wingscapes", 1
+"Mamiya AFD ii", 1
+"LITTLE SHOTS", 1
+"Digital Camera For Dummies", 1
+"DNT", 1
+"Keedox", 1
+"Panasonic/Lumix", 1
+"Action Shot", 1
+"access HD", 1
+"Spectra Merchandising International", 1
+"Next", 1
+"GE GENERAL ELECTRIC", 1
+"Jakks Pacific", 1
+"JLB", 1
+"VistaQuestÂ", 1
+"SAKAR", 1
+"Blackmagicdesign", 1
+"Canon power shot sx130", 1
+"Revo", 1
+"Jumbl", 1
+"Chinon", 1
+"Intel", 1
+"KBGear Interactive", 1
+"i_p.mium", 1
+"[
+        "Nikon\nType:\nDigital SLR",
+        "Nikon"
+    ]", 1
+"MAGELLAN", 1
+"COBRA", 1
+"Fantasea", 1
+"COMPUTER PARTNER", 1
+"DGX", 1
+"Fujifilm finepix telephoto digitalcamera", 1
+"Tenvis", 1
+"God condition", 1
+"Skyguide", 1
+"Mamiya", 1
+"Hitachi", 1
+"digital concepts", 1
+"[
+        "Kodak Optical Zoom: 8x",
+        "Kodak\nOptical Zoom:\n8x"
+    ]", 1
+"Evolt", 1
+"AEE Magicam", 1
+"unbrand", 1
+"Joco", 1
+"GOPRO", 1
+"[
+        "Nikon Megapixels: 12.1 MP",
+        "Nikon\nMegapixels:\n12.1 MP"
+    ]", 1
+"DV", 1
+"Phoenix", 1
+"VuPoint", 1
+"Concord", 1
+"ZMODO", 1
+"Bonzart", 1
+"Star System", 1
+"AEE", 1
+"Speedo", 1
+"THE SHARPER IMAGE", 1
+"Contour", 1
+"VIBE", 1
+"OLYMPU", 1
+"Vista Quest", 1
+"Largan Group", 1
+"Mercury Electronics", 1
+""EASY SHOT" CLIP", 1
+"Optiz", 1
+"Wusthof", 1
+"Canon/Japan", 1
+"General Imaging GE", 1
+"OEM", 1
+"ION", 1
+"BetterLight", 1
+"AUDIOVOX", 1
+"Seiki Digital Inc.", 1
+"Symphonic", 1
+"AKAI (Built by Samsung)", 1
+"Olivia", 1
+"AXESS", 1
+"New", 1
+"Bang & Olufsen", 1
+"KTV", 1
+"Sceptre", 1
+"Venturer", 1
+"Audiovox", 1
+"Hisense", 1
+"Action", 1
+"Digital Prism", 1
+"GPX", 1
+"Favi Entertainment", 1
+"Hewlett Packard", 1
+"Telecom", 1
+"Megapix", 1
+"Axess", 1
+"QFX", 1
+"Vizio, Inc.", 1
+"NEC", 1
+"TCL", 1
+"Protron", 1
+"Insigniaâ?¢", 1
+"Elite Screens", 1
+"Emprex", 1
+"Radio Shack", 1
+"Dynex", 1
+"Digital Labs", 1
+"COMBOTEK", 1
+"6.0 MP", 1
+"HASSELBLAD", 1
+"Vistaquest", 1
+"Unknown", 1
+"MERCURY", 1
+"Panasonic / Lumix", 1
+"[
+        "Kodak",
+        "Kodak"
+    ]", 1
+"General Imaging", 1
+"PENTAX Corporation", 1
+"cyber-cam", 1
+"nabi", 1
+"Protax", 1
+"Jvc", 1
+"Gopro", 1
+"Genius", 1
