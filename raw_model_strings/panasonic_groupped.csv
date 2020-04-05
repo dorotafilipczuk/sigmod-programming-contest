@@ -1,0 +1,1075 @@
+{
+    "3D1": [
+        "DMC 3D1",
+        "DMC-3D1"
+    ],
+    "AS10": [
+        "SV AS10"
+    ],
+    "C1322": [
+        "PV C1322"
+    ],
+    "DC1580": [
+        "PV DC1580"
+    ],
+    "DC2": [
+        "HX DC2"
+    ],
+    "DC2090": [
+        "PV DC2090"
+    ],
+    "DC3": [
+        "HX DC3"
+    ],
+    "E300": [
+        "AW E300"
+    ],
+    "F3": [
+        "DMC F3",
+        "DMC-F3"
+    ],
+    "F5": [
+        "DMC F5",
+        "DMC-F5"
+    ],
+	"F5K": [
+        "DMCF5K"
+    ],
+    "FH1": [
+        "DMC FH1",
+        "DMC-FH1"
+    ],
+    "FH10": [
+        "DMC-FH10"
+    ],
+    "FH10K": [
+        "DMC FH10K"
+    ],
+    "FH2": [
+        "DMC FH2",
+        "DMC-FH2"
+    ],
+    "FH20": [
+        "DMC FH20",
+        "DMC-FH20"
+    ],
+    "FH22": [
+        "DMC-FH22",
+        "FH22"
+    ],
+    "FH24": [
+        "DMC FH24"
+    ],
+    "FH25": [
+        "DMC FH25",
+        "DMC-FH25"
+    ],
+    "FH25K": [
+        "DMC FH25K"
+    ],
+    "FH27": [
+        "DMC FH27",
+        "DMC-FH27"
+    ],
+    "FH2K": [
+        "DMC-FH2K"
+    ],
+    "FH3": [
+        "DMC FH3",
+        "DMC-FH3"
+    ],
+    "FH4": [
+        "DMC FH4",
+        "DMC-FH4"
+    ],
+    "FH5": [
+        "DMC FH5",
+        "DMC-FH5"
+    ],
+    "FH6": [
+        "DMC FH6",
+        "FH6"
+    ],
+    "FH7": [
+        "DMC FH7",
+        "DMC-FH7"
+    ],
+    "FH8": [
+        "DMC-FH8"
+    ],
+    "FP1": [
+        "DMC FP1",
+        "DMC-FP1"
+    ],
+    "FP1A": [
+        "DMC-FP1A"
+    ],
+    "FP1S": [
+        "DMC-FP1S"
+    ],
+    "FP2": [
+        "DMC FP2"
+    ],
+    "FP3": [
+        "DMC FP3",
+        "DMC-FP3"
+    ],
+    "FP5": [
+        "DMC FP5",
+        "DMC-FP5"
+    ],
+    "FP7": [
+        "DMC FP7",
+        "DMC-FP7"
+    ],
+    "FP8": [
+        "DMC-FP8"
+    ],
+	"FP8K": [
+        "DMC-FP8-K"
+    ],
+    "FS12": [
+        "DMC-FS12"
+    ],
+    "FS15": [
+        "DMC FS15",
+        "DMC-FS15"
+    ],
+    "FS20": [
+        "DMC FS20"
+    ],
+    "FS25": [
+        "DMC FS25",
+        "DMC-FS25"
+    ],
+    "FS3": [
+        "DMC FS3",
+        "DMC-FS3"
+    ],
+    "FS3A": [
+        "DMC-FS3A"
+    ],
+    "FS4": [
+        "DMC FS4",
+        "DMC-FS4"
+    ],
+    "FS42": [
+        "DMC-FS42"
+    ],
+    "FS5": [
+        "DMC FS5"
+    ],
+    "FS5A": [
+        "DMC FS5A"
+    ],
+    "FS5K": [
+        "DMC-FS5K"
+    ],
+    "FS7": [
+        "DMC FS7"
+    ],
+    "FS7S": [
+        "DMC-FS7S"
+    ],
+    "FS8": [
+        "DMC FS8"
+    ],
+    "FT1": [
+        "DMC-FT1"
+    ],
+    "FT2": [
+        "DMC-FT2"
+    ],
+    "FT20": [
+        "DMC-FT20"
+    ],
+    "FT25": [
+        "DMC-FT25",
+        "FT25"
+    ],
+    "FT3": [
+        "DMC FT3",
+        "DMC-FT3"
+    ],
+    "FT4": [
+        "DMC-FT4"
+    ],
+    "FT5": [
+        "DMC FT5",
+        "DMC-FT5"
+    ],
+    "FX01": [
+        "DMC FX01"
+    ],
+    "FX07": [
+        "DMC FX07",
+        "FX07"
+    ],
+    "FX07A": [
+        "DMC-FX07A"
+    ],
+    "FX07R": [
+        "DMC-FX07R"
+    ],
+    "FX07S": [
+        "DMC-FX07S"
+    ],
+    "FX10": [
+        "DMC FX10"
+    ],
+    "FX100K": [
+        "FX100K"
+    ],
+    "FX12": [
+        "DMC-FX12"
+    ],
+    "FX30": [
+        "DMC FX30"
+    ],
+    "FX33": [
+        "DMC FX33"
+    ],
+    "FX37K": [
+        "DMC-FX37K"
+    ],
+    "FX3S": [
+        "DMC-FX3S"
+    ],
+    "FX48": [
+        "DMC-FX48"
+    ],
+    "FX500": [
+        "DMC-FX500"
+    ],
+    "FX50K": [
+        "DMC-FX50K"
+    ],
+    "FX68": [
+        "DMC FX68"
+    ],
+    "FX7": [
+        "FX7 B1"
+    ],
+    "FX700": [
+        "DMC FX700"
+    ],
+    "FX78": [
+        "DMC FX78",
+        "DMC-FX78",
+		"FX 78"
+    ],
+    "FX7K": [
+        "DMC-FX7K"
+    ],
+    "FX80": [
+        "DMC FX80",
+        "DMC-FX80"
+    ],
+    "FX90K": [
+        "DMC FX90K"
+    ],
+    "FZ1": [
+        "DMC FZ1"
+    ],
+    "FZ10": [
+        "DMC FZ10"
+    ],
+    "FZ100": [
+        "DMC FZ100",
+        "DMC-FZ100"
+    ],
+    "FZ1000": [
+        "DMC FZ1000",
+        "DMC-FZ1000"
+    ],
+    "FZ1000P": [
+        "DMC FZ1000P"
+    ],
+    "FZ150": [
+        "DMC FZ150",
+        "DMC-FZ150"
+    ],
+    "FZ18": [
+        "DMC FZ18",
+        "FZ18"
+    ],
+    "FZ18K": [
+        "DMC FZ18K",
+        "DMC-FZ18K"
+    ],
+    "FZ20": [
+        "DMC FZ20"
+    ],
+    "FZ200": [
+        "DMC FZ200",
+        "DMC-FZ200",
+        "FZ200"
+    ],
+    "FZ28": [
+        "DMC FZ28",
+        "DMC-FZ28"
+    ],
+    "FZ28S": [
+        "DMC-FZ28S"
+    ],
+    "FZ3": [
+        "DMC FZ3"
+    ],
+    "FZ30": [
+        "DMC FZ30",
+        "DMC-FZ30"
+    ],
+    "FZ30K": [
+        "DMC-FZ30K"
+    ],
+    "FZ35": [
+        "DMC FZ35",
+        "DMC-FZ35"
+    ],
+    "FZ35K": [
+        "DMC-FZ35K"
+    ],
+    "FZ4": [
+        "DMC FZ4",
+        "DMC-FZ4"
+    ],
+    "FZ40": [
+        "DMC FZ40",
+        "DMC-FZ40"
+    ],
+    "FZ47": [
+        "DMC FZ47",
+        "DMC-FZ47"
+    ],
+    "FZ47K": [
+        "DMC FZ47K"
+    ],
+    "FZ5": [
+        "DMC FZ5"
+    ],
+    "FZ50": [
+        "DMC FZ50",
+        "DMC-FZ50"
+    ],
+    "FZ50K": [
+        "DMC-FZ50K"
+    ],
+    "FZ50S": [
+        "DMC-FZ50S"
+    ],
+    "FZ60": [
+        "DMC-FZ60"
+    ],
+    "FZ7": [
+        "DMC FZ7",
+        "DMC-FZ7"
+    ],
+    "FZ70": [
+        "DMC FZ70",
+        "DMC-FZ70"
+    ],
+    "FZ70K": [
+        "DMC FZ70K",
+        "DMC-FZ70K",
+        "FZ70K"
+    ],
+    "FZ72": [
+        "DMC-FZ72",
+        "FZ72"
+    ],
+    "FZ7S": [
+        "DMC-FZ7S"
+    ],
+    "FZ8": [
+        "DMC FZ8"
+    ],
+    "FZ8K": [
+        "DMC-FZ8K"
+    ],
+    "G1": [
+        "DMC G1",
+        "DMC-G1"
+    ],
+    "G10": [
+        "DMC-G10"
+    ],
+    "G1K": [
+        "DMC G1K"
+    ],
+    "G2": [
+        "DMC G2",
+        "DMC-G2"
+    ],
+    "G2A": [
+        "DMC-G2A"
+    ],
+    "G2K": [
+        "DMC-G2K"
+    ],
+    "G3": [
+        "DMC G3",
+        "DMC-G3"
+    ],
+    "G3K": [
+        "DMC G3K"
+    ],
+    "G3W": [
+        "DMC G3W",
+        "DMC-G3W"
+    ],
+    "G5": [
+        "DMC G5",
+        "DMC-G5"
+    ],
+    "G5K": [
+        "DMC G5K"
+    ],
+    "G5KK": [
+        "DMC G5KK",
+        "DMC-G5KK"
+    ],
+    "G5W": [
+        "DMC G5W"
+    ],
+    "G6": [
+        "DMC G6",
+        "DMC-G6"
+    ],
+    "G6KK": [
+        "DMC G6KK",
+        "DMC-G6KK"
+    ],
+    "GF1": [
+        "DMC GF1",
+        "DMC-GF1",
+        "GF1",
+		"Gf1"
+    ],
+    "GF1K": [
+        "DMC GF1K"
+    ],
+    "GF2": [
+        "DMC GF2",
+        "DMC-GF2",
+		"Dmc-gf2",
+		"Gf2"
+    ],
+    "GF2K": [
+        "DMC GF2K",
+        "DMC-GF2K"
+    ],
+    "GF3": [
+        "DMC GF3",
+        "DMC-GF3",
+        "GF3",
+		"Gf3"
+    ],
+    "GF3CK": [
+        "DMC GF3CK"
+    ],
+    "GF3K": [
+        "DMC GF3K"
+    ],
+    "GF3KK": [
+        "DMC GF3KK"
+    ],
+    "GF3R": [
+        "DMC GF3R"
+    ],
+    "GF3X": [
+        "DMC GF3X",
+        "DMC-GF3X"
+    ],
+    "GF3XK": [
+        "DMC-GF3XK"
+    ],
+    "GF5": [
+        "DMC-GF5",
+        "GF5",
+		"Gf5"
+    ],
+    "GF5K": [
+        "DMC GF5K"
+    ],
+    "GF5W": [
+        "DMC GF5W"
+    ],
+    "GF5X": [
+        "DMC GF5X"
+    ],
+    "GF6": [
+        "DMC-GF6"
+    ],
+    "GH1": [
+        "DMC GH1",
+        "DMC-GH1"
+    ],
+    "GH1K": [
+        "DMC GH1K",
+        "DMC-GH1K"
+    ],
+    "GH2": [
+        "DMC GH2",
+        "DMC-GH2",
+        "GH2"
+    ],
+    "GH2H": [
+        "DMC GH2H"
+    ],
+    "GH2K": [
+        "DMC GH2K"
+    ],
+    "GH3": [
+        "DMC GH3",
+        "DMC-GH3",
+        "GH3"
+    ],
+    "GH3H": [
+        "DMC GH3H"
+    ],
+    "GH3K": [
+        "DMC-GH3K"
+    ],
+    "GH4": [
+        "DMC GH4",
+        "DMC-GH4",
+        "GH4",
+		"DMC GH4BODY"
+    ],
+    "GH4K": [
+        "DMC GH4K",
+		"DMC-GH4KBODY"
+    ],
+    "GM1": [
+        "DMC GM1",
+        "DMC-GM1",
+        "GM1"
+    ],
+    "GM1K": [
+        "DMC GM1K"
+    ],
+    "GM1KD": [
+        "DMC-GM1KD"
+    ],
+    "GM1KS": [
+        "DMC-GM1KS"
+    ],
+    "GM5": [
+        "DMC-GM5"
+    ],
+    "GX1": [
+        "DMC GX1",
+        "DMC-GX1",
+        "GX1"
+    ],
+    "GX1K": [
+        "DMC GX1K"
+    ],
+    "GX1W": [
+        "DMC-GX1W"
+    ],
+    "GX7": [
+        "DMC GX7",
+        "DMC-GX7"
+    ],
+    "GX7C": [
+        "DMC GX7C"
+    ],
+    "GX7K": [
+        "DMC GX7K"
+    ],
+    "H101": [
+        "SDR H101"
+    ],
+    "HS60": [
+        "HDC HS60"
+    ],
+    "HXA500H": [
+        "HXA500H"
+    ],
+    "L1": [
+        "DMC L1",
+        "DMC-L1"
+    ],
+    "LC1": [
+        "DMC LC1",
+        "LC1"
+    ],
+    "LC20": [
+        "DMC LC20"
+    ],
+    "LC33": [
+        "DMC LC33"
+    ],
+    "LC70": [
+        "DMC LC70"
+    ],
+    "LF1": [
+        "DMC LF1",
+        "DMC-LF1",
+		"Dmc-Lf1"
+    ],
+    "LF1K": [
+        "DMC-LF1K"
+    ],
+    "LS2": [
+        "DMC LS2"
+    ],
+    "LS5": [
+        "DMC LS5",
+        "DMC-LS5"
+    ],
+    "LS6": [
+        "DMC-LS6"
+    ],
+    "LS60": [
+        "DMC-LS60"
+    ],
+    "LS70": [
+        "DMC LS70"
+    ],
+    "LS75": [
+        "DMC LS75"
+    ],
+    "LS80": [
+        "DMC LS80"
+    ],
+    "LX1": [
+        "DMC LX1"
+    ],
+    "LX100": [
+        "DMC-LX100"
+    ],
+    "LX1S": [
+        "DMC-LX1S"
+    ],
+    "LX2": [
+        "DMC LX2"
+    ],
+    "LX2K": [
+        "DMC-LX2K"
+    ],
+    "LX2S": [
+        "DMC-LX2S"
+    ],
+    "LX3": [
+        "DMC LX3",
+        "DMC-LX3",
+		"Dmc-lx3"
+    ],
+    "LX5": [
+        "DMC LX5",
+        "DMC-LX5",
+        "LX5",
+		"Lx5"
+    ],
+    "LX7": [
+        "DMC LX7",
+        "DMC-LX7",
+		"Lx7"
+    ],
+    "LX7K": [
+        "DMC LX7K",
+        "DMC-LX7K"
+    ],
+    "LX7W": [
+        "DMC-LX7W"
+    ],
+    "LZ10": [
+        "DMC LZ10"
+    ],
+    "LZ10K": [
+        "DMC-LZ10K"
+    ],
+    "LZ2": [
+        "DMC LZ2"
+    ],
+    "LZ20": [
+        "DMC-LZ20"
+    ],
+    "LZ3": [
+        "DMC LZ3"
+    ],
+    "LZ30": [
+        "DMC LZ30",
+        "DMC-LZ30",
+        "LZ30"
+    ],
+    "LZ4": [
+        "DMC LZ4"
+    ],
+    "LZ40": [
+        "DMC LZ40",
+        "DMC-LZ40"
+    ],
+    "LZ40K": [
+        "DMC-LZ40K",
+		"DMCLZ40K"
+    ],
+    "LZ5": [
+        "DMC LZ5"
+    ],
+    "LZ5K": [
+        "DMC-LZ5K"
+    ],
+    "LZ7": [
+        "DMC LZ7"
+    ],
+    "LZ70K": [
+        "DMC-LZ70K"
+    ],
+    "MDH1": [
+        "HDC-MDH1"
+    ],
+    "MDH2": [
+        "HC-MDH2"
+    ],
+    "S1": [
+        "DMC S1",
+        "DMC-S1"
+    ],
+    "S15": [
+        "SDR S15"
+    ],
+    "S1A": [
+        "DMC-S1A"
+    ],
+    "S2": [
+        "DMC S2",
+        "DMC-S2"
+    ],
+    "S3": [
+        "DMC S3",
+        "DMC-S3"
+    ],
+    "S5": [
+        "DMC S5"
+    ],
+    "S71": [
+        "SDR S71"
+    ],
+    "SD4090": [
+        "PV SD4090"
+    ],
+    "SDT750": [
+        "SDT750"
+    ],
+    "ST165": [
+        "WV-ST165"
+    ],
+    "SZ02": [
+        "DMC SZ02",
+		"DMCSZ02"
+    ],
+    "SZ1": [
+        "DMC SZ1",
+        "DMC-SZ1"
+    ],
+    "SZ3": [
+        "DMC SZ3",
+        "DMC-SZ3",
+		"DMC Sz3"
+    ],
+	"SZ3K": [
+        "DMCSZ3K"
+	],
+    "SZ5": [
+        "DMC SZ5",
+        "DMC-SZ5"
+    ],
+	"SZ5K": [
+        "DMCSZ5K"
+	],
+    "SZ7": [
+        "DMC SZ7",
+        "DMC-SZ7",
+		"DMC Sz7"
+    ],
+    "SZ8": [
+        "DMC-SZ8",
+		"DMC Sz8"
+    ],
+	"SZ8K": [
+        "DMCSZ8K"
+	],
+    "TM900": [
+        "HDC TM900"
+    ],
+    "TS1": [
+        "DMC TS1",
+        "DMC-TS1"
+    ],
+    "TS10": [
+        "DMC TS10"
+    ],
+    "TS2": [
+        "DMC TS2",
+        "DMC-TS2"
+    ],
+    "TS20": [
+        "DMC TS20",
+        "DMC-TS20",
+        "TS20"
+    ],
+    "TS25": [
+        "DMC TS25",
+        "DMC-TS25"
+    ],
+    "TS25A": [
+        "DMC-TS25A",
+		"DMCTS25A"
+    ],
+    "TS25K": [
+        "DMC-TS25K"
+    ],
+	"TS25R": [
+		"DMCTS25R"
+    ],
+    "TS25W": [
+        "DMC-TS25W",
+		"DMCTS25W"
+    ],
+    "TS3": [
+        "DMC TS3",
+        "DMC-TS3"
+    ],
+    "TS4": [
+        "DMC TS4",
+        "DMC-TS4"
+    ],
+    "TS5": [
+        "DMC TS5",
+        "DMC-TS5"
+    ],
+	"TS5A": [
+        "DMCTS5A"
+    ],
+	"TS5D": [
+        "DMCTS5D"
+    ],
+    "TS5K": [
+        "DMC-TS5K"
+    ],
+    "TZ1": [
+        "DMC TZ1"
+    ],
+    "TZ10": [
+        "DMC TZ10",
+        "DMC-TZ10"
+    ],
+    "TZ18": [
+        "DMC TZ18",
+        "DMC-TZ18"
+    ],
+    "TZ2": [
+        "DMC TZ2"
+    ],
+    "TZ20": [
+        "DMC TZ20",
+        "DMC-TZ20",
+		"tz20"
+    ],
+    "TZ25": [
+        "DMC TZ25",
+        "DMC-TZ25"
+    ],
+    "TZ27": [
+        "DMC TZ27"
+    ],
+    "TZ3": [
+        "DMC TZ3",
+        "TZ3"
+    ],
+    "TZ30": [
+        "DMC TZ30",
+        "DMC-TZ30"
+    ],
+    "TZ35": [
+        "DMC TZ35"
+    ],
+    "TZ4": [
+        "DMC TZ4"
+    ],
+    "TZ40": [
+        "DMC TZ40",
+        "DMC-TZ40"
+    ],
+    "TZ5": [
+        "DMC TZ5"
+    ],
+    "TZ55": [
+        "DMC-TZ55"
+    ],
+    "TZ5E": [
+        "DMC TZ5E"
+    ],
+    "TZ5K": [
+        "DMC-TZ5K"
+    ],
+    "TZ6": [
+        "DMC-TZ6"
+    ],
+    "TZ60": [
+        "DMC TZ60",
+        "DMC-TZ60",
+        "TZ60"
+    ],
+    "TZ6EG": [
+        "DMC TZ6EG"
+    ],
+    "V10": [
+        "HC V10"
+    ],
+    "V100": [
+        "HC V100"
+    ],
+    "V110": [
+        "HC V110"
+    ],
+    "V130": [
+        "HC V130"
+    ],
+    "V210": [
+        "HC V210"
+    ],
+    "V230": [
+        "HC V230"
+    ],
+    "V250": [
+        "HC V250"
+    ],
+    "V520": [
+        "HC V520"
+    ],
+    "V550": [
+        "HC V550"
+    ],
+    "V750": [
+        "HC V750"
+    ],
+    "W850": [
+        "HC W850"
+    ],
+    "WVST162": [
+        "WVST162"
+    ],
+    "X920": [
+        "HC X920"
+    ],
+    "X920M": [
+        "HC-X920M"
+    ],
+    "X920MGC": [
+        "HC X920MGC"
+    ],
+    "XS1": [
+        "DMC XS1",
+        "DMC-XS1",
+        "XS1"
+    ],
+    "XS1GN": [
+        "DMC XS1GN"
+    ],
+    "XS1K": [
+        "DMC-XS1K"
+    ],
+    "XS1R": [
+        "DMC-XS1R"
+    ],
+    "XS1W": [
+        "DMC-XS1W",
+		"DMCXS1W"
+    ],
+    "XS3": [
+        "DMC XS3"
+    ],
+    "ZR1": [
+        "DMC ZR1",
+        "DMC-ZR1"
+    ],
+    "ZR1S": [
+        "DMC-ZR1S"
+    ],
+    "ZR3": [
+        "DMC ZR3",
+        "DMC-ZR3",
+        "ZR3"
+    ],
+    "ZS1": [
+        "DMC ZS1"
+    ],
+    "ZS10": [
+        "DMC ZS10",
+        "DMC-ZS10",
+		"zs10"
+    ],
+    "ZS15": [
+        "DMC ZS15",
+        "DMC-ZS15"
+    ],
+    "ZS19": [
+        "DMC ZS19",
+        "DMC-ZS19"
+    ],
+    "ZS20": [
+        "DMC ZS20",
+        "DMC-ZS20"
+    ],
+    "ZS25": [
+        "DMC ZS25",
+        "DMC-ZS25"
+    ],
+	"ZS25K": [
+        "DMC-DMCZS25K"
+    ],
+    "ZS25S": [
+        "DMC-ZS25S"
+    ],
+    "ZS3": [
+        "DMC ZS3",
+        "DMC-ZS3"
+    ],
+    "ZS30": [
+        "DMC ZS30",
+        "DMC-ZS30"
+    ],
+    "ZS35": [
+        "DMC ZS35",
+        "DMC-ZS35",
+        "ZS35"
+    ],
+    "ZS40": [
+        "DMC ZS40",
+        "DMC-ZS40"
+    ],
+	"ZS40K": [
+        "DMCZS40K"
+    ],
+	"ZS40S": [
+        "DMCZS40S"
+    ],
+    "ZS5": [
+        "DMC ZS5",
+        "DMC-ZS5",
+        "ZS5"
+    ],
+    "ZS6": [
+        "DMC ZS6"
+    ],
+    "ZS7": [
+        "DMC ZS7",
+        "DMC-ZS7"
+    ],
+    "ZS8": [
+        "DMC ZS8",
+        "DMC-ZS8",
+		"zs8"
+    ],
+    "ZS9": [
+        "DMC ZS9",
+        "DMC-ZS9"
+    ],
+    "ZX3": [
+        "DMC ZX3"
+    ]
+}
