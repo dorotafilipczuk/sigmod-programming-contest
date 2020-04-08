@@ -2,7 +2,7 @@
 - [x] aiptek   
 - [x] bushnell   
 - [x] caliber   
-- [ ] canon (@Taha: didn't have time to check long list)
+- [x] canon (@Taha: didn't have time to check long list, @Edoardo: I've got you covered, mate!)
 - [x] casio   
 - [x] coleman   
 - [x] contax   
