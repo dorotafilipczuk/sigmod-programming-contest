@@ -1,7 +1,7 @@
 - [ ] agfa   
 - [ ] aiptek   
 - [ ] bushnell   
-- [ ] caliber   
+- [x] caliber   
 - [ ] canon   
 - [x] casio   
 - [ ] coleman   
