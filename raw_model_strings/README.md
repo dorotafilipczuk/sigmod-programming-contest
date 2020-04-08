@@ -1,5 +1,5 @@
 - [x] agfa   
-- [ ] aiptek   
+- [x] aiptek   
 - [x] bushnell   
 - [x] caliber   
 - [ ] canon   
