@@ -17,7 +17,7 @@
 - [x] htc   
 - [x] intova   
 - [x] ion   
-- [ ] kodak   
+- [x] kodak   
 - [ ] konica minolta   
 - [ ] kyocera   
 - [ ] leica   
