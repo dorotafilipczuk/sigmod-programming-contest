@@ -28,7 +28,7 @@
 - [x] nokia   
 - [x] olympus   
 - [x] panasonic   
-- [ ] pentax   
+- [x] pentax   
 - [ ] philips   
 - [x] polaroid (couldn't find any match)
 - [ ] praktica   
