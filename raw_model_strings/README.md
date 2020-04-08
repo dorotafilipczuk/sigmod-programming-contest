@@ -24,7 +24,7 @@
 - [x] logitech   
 - [x] lytro   
 - [x] minox   
-- [ ] nikon   
+- [x] nikon   
 - [ ] nokia   
 - [ ] olympus   
 - [x] panasonic   
