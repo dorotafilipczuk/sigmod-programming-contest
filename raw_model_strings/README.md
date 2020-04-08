@@ -43,5 +43,5 @@
 - [x] toshiba   
 - [x] trust   
 - [x] vista quest   
-- [ ] vivitar (@Taha: many models, didn't have the time to check)
+- [x] vivitar (@Taha: many models, didn't have the time to check, @Edoardo: done!)
 - [x] yashica   
