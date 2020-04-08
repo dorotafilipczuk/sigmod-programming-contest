@@ -2,7 +2,7 @@
 - [x] aiptek   
 - [x] bushnell   
 - [x] caliber   
-- [ ] canon   
+- [ ] canon (@Taha: didn't have time to check long list)
 - [x] casio   
 - [x] coleman   
 - [x] contax   
@@ -42,6 +42,6 @@
 - [x] space   
 - [x] toshiba   
 - [x] trust   
-- [ ] vista quest   
+- [x] vista quest   
 - [ ] vivitar (@Taha: many models, didn't have the time to check)
 - [x] yashica   
