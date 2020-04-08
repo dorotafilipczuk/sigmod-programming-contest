@@ -11,7 +11,7 @@
 - [x] fujifilm   
 - [x] fujitsu   
 - [x] ge   
-- [ ] hasselblad   
+- [x] hasselblad   
 - [x] hitachi   
 - [ ] hp   
 - [ ] htc   
