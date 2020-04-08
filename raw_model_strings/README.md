@@ -10,7 +10,7 @@
 - [x] epson (couldn't find any match)
 - [x] fujifilm   
 - [x] fujitsu   
-- [ ] ge   
+- [x] ge   
 - [ ] hasselblad   
 - [x] hitachi   
 - [ ] hp   
