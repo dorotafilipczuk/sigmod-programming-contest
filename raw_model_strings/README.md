@@ -23,7 +23,7 @@
 - [x] leica   
 - [x] logitech   
 - [x] lytro   
-- [ ] minox   
+- [x] minox   
 - [ ] nikon   
 - [ ] nokia   
 - [ ] olympus   
