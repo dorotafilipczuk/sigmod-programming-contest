@@ -13,7 +13,7 @@
 - [x] ge   
 - [x] hasselblad   
 - [x] hitachi   
-- [ ] hp   
+- [x] hp   
 - [ ] htc   
 - [ ] intova   
 - [ ] ion   
