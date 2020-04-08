@@ -1,4 +1,4 @@
-- [ ] agfa   
+- [x] agfa   
 - [ ] aiptek   
 - [x] bushnell   
 - [x] caliber   
