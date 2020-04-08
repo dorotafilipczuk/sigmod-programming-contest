@@ -25,7 +25,7 @@
 - [x] lytro   
 - [x] minox   
 - [x] nikon   
-- [ ] nokia   
+- [x] nokia   
 - [ ] olympus   
 - [x] panasonic   
 - [ ] pentax   
