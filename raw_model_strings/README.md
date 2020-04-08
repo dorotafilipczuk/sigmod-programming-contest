@@ -32,8 +32,8 @@
 - [x] philips   
 - [x] polaroid (couldn't find any match)
 - [x] praktica   
-- [ ] ricoh   
-- [ ] sakar   
+- [x] ricoh   
+- [x] sakar   
 - [x] samsung   
 - [x] sanyo   
 - [ ] sealife   
