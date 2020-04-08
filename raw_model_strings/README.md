@@ -35,7 +35,7 @@
 - [ ] ricoh   
 - [ ] sakar   
 - [x] samsung   
-- [ ] sanyo   
+- [x] sanyo   
 - [ ] sealife   
 - [x] sigma   
 - [x] sony   
