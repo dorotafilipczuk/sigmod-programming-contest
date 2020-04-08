@@ -37,7 +37,7 @@
 - [x] samsung   
 - [ ] sanyo   
 - [ ] sealife   
-- [ ] sigma   
+- [x] sigma   
 - [x] sony   
 - [ ] space   
 - [ ] toshiba   
