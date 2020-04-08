@@ -22,7 +22,7 @@
 - [x] kyocera   
 - [x] leica   
 - [x] logitech   
-- [ ] lytro   
+- [x] lytro   
 - [ ] minox   
 - [ ] nikon   
 - [ ] nokia   
