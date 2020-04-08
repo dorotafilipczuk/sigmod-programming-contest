@@ -3,7 +3,7 @@
 - [ ] bushnell   
 - [ ] caliber   
 - [ ] canon   
-- [ ] casio   
+- [x] casio   
 - [ ] coleman   
 - [ ] contax   
 - [x] easypix   
