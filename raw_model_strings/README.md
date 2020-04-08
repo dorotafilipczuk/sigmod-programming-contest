@@ -26,7 +26,7 @@
 - [x] minox   
 - [x] nikon   
 - [x] nokia   
-- [ ] olympus   
+- [x] olympus   
 - [x] panasonic   
 - [ ] pentax   
 - [ ] philips   
