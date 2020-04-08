@@ -18,7 +18,7 @@
 - [x] intova   
 - [x] ion   
 - [x] kodak   
-- [ ] konica minolta   
+- [x] konica minolta   
 - [ ] kyocera   
 - [ ] leica   
 - [ ] logitech   
