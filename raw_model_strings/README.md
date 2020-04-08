@@ -1,6 +1,6 @@
 - [ ] agfa   
 - [ ] aiptek   
-- [ ] bushnell   
+- [x] bushnell   
 - [x] caliber   
 - [ ] canon   
 - [x] casio   
