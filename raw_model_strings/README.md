@@ -16,7 +16,7 @@
 - [x] hp   
 - [x] htc   
 - [x] intova   
-- [ ] ion   
+- [x] ion   
 - [ ] kodak   
 - [ ] konica minolta   
 - [ ] kyocera   
