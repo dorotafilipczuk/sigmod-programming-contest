@@ -36,12 +36,12 @@
 - [x] sakar   
 - [x] samsung   
 - [x] sanyo   
-- [ ] sealife   
+- [x] sealife   
 - [x] sigma   
 - [x] sony   
-- [ ] space   
-- [ ] toshiba   
-- [ ] trust   
+- [x] space   
+- [x] toshiba   
+- [x] trust   
 - [ ] vista quest   
-- [ ] vivitar   
-- [ ] yashica   
+- [ ] vivitar (@Taha: many models, didn't have the time to check)
+- [x] yashica   
