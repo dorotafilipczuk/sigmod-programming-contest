@@ -29,9 +29,9 @@
 - [x] olympus   
 - [x] panasonic   
 - [x] pentax   
-- [ ] philips   
+- [x] philips   
 - [x] polaroid (couldn't find any match)
-- [ ] praktica   
+- [x] praktica   
 - [ ] ricoh   
 - [ ] sakar   
 - [x] samsung   
