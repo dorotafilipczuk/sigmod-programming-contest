@@ -1,0 +1,876 @@
+{
+    "ELPH 100": [
+        "ELPH 100",
+		"IXUS 115 HS"
+    ],
+    "ELPH 110": [
+        "ELPH 110HS",
+        "ELPH 110",
+        "ELPH110"
+    ],
+    "ELPH 115": [
+        "ELPH 115",
+        "ELPH 115HS",
+        "PowerShot 115",
+		"IXUS 132",
+        "IXUS 132 HS"
+    ],
+    "ELPH 130": [
+        "ELPH 130",
+        "ELPH 130IS",
+		"IXUS 140",
+        "Ixus 140 HS"
+    ],
+    "ELPH 300": [
+        "ELPH 300",
+        "ELPH 300HS",
+		"IXUS 220 HS",
+        "Ixus 220hs"
+    ],
+    "ELPH 310": [
+        "ELPH 310",
+        "Elph 310",
+        "ELPH 310HS",
+        "PowerShot 310",
+		"IXUS 230 HS"
+    ],
+    "ELPH 320": [
+        "ELPH 320"
+    ],
+    "ELPH 520": [
+        "ELPH 520",
+		"IXUS 500",
+        "IXUS 500 HS"
+    ],
+    "ELPH 700": [
+        "ELPH SD 700"
+    ],
+    "EOS 1000D": [
+        "EOS 1000D",
+        "1000d"
+    ],
+    "EOS 100D": [
+        "EOS 100D",
+		"EOS SL1",
+        "Rebel SL1",
+        "Rebel Sl1"
+    ],
+    "EOS 10D": [
+        "EOS 10D"
+    ],
+    "EOS 1100D": [
+        "EOS 1100D",
+        "1100d",
+		"EOS T3",
+        "Rebel T3"
+    ],
+    "EOS 1200D": [
+        "EOS 1200D",
+		"EOS T5",
+        "Rebel T5"
+    ],
+    "EOS 1680D": [
+        "1680d"
+    ],
+    "EOS 1DX": [
+        "EOS 1DX",
+        "EOS 1Dx",
+        "EOS 1dx"
+    ],
+    "EOS 20D": [
+        "EOS 20",
+        "EOS 20D",
+        "20D"
+    ],
+    "EOS 300D": [
+        "EOS 300D",
+        "DS 6041"
+    ],
+    "EOS 30D": [
+        "EOS 30D",
+        "30D"
+    ],
+    "EOS 350D": [
+        "EOS 350D",
+        "350d"
+    ],
+    "EOS 400D": [
+        "EOS 400D"
+    ],
+    "EOS 40D": [
+        "EOS 40D",
+        "EOS 40",
+        "40D",
+        "40d"
+    ],
+    "EOS 450D": [
+        "EOS 450D"
+    ],
+    "EOS 450d": [
+        "450d"
+    ],
+    "EOS 500D": [
+        "EOS 500D",
+        "Rebel 500D",
+        "500d",
+		"EOS T1i",
+        "Rebel T1i",
+        "T1i"
+    ],
+    "EOS 50D": [
+        "EOS 50D",
+        "50D"
+    ],
+    "EOS 550D": [
+        "EOS 550D",
+        "Eos 550d",
+        "T2i 550D",
+        "550d",
+		"Rebel T2i",
+        "T2i 550D"
+    ],
+    "EOS 5D Mark II": [
+		"EOS 5D Mark II",
+        "5d2"
+    ],
+    "EOS 5D Mark III": [
+		"EOS 5D Mark III",
+        "5d3"
+    ],
+    "EOS 600D": [
+        "EOS 600D",
+        "Eos 600d",
+        "600d",
+		"EOS T3i",
+        "Rebel T3i"
+    ],
+    "EOS 60D": [
+        "EOS 60",
+        "EOS 60D",
+        "Eos 60d",
+        "60D"
+    ],
+    "EOS 60Da": [
+        "EOS 60Da"
+    ],
+    "EOS 650D": [
+        "EOS 650D",
+        "Eos 650d",
+		"EOS T4i",
+        "Rebel T4i",
+        "T4i"
+    ],
+    "EOS 6D": [
+        "EOS 6D",
+        "EOS 6d",
+        "Eos 6d",
+        "6d"
+    ],
+    "EOS 700D": [
+        "EOS 700D",
+        "Rebel 700D",
+		"EOS T5I",
+        "Rebel T5I",
+        "Rebel T5i"
+    ],
+    "EOS 70D": [
+        "EOS 70D",
+        "EOS DSLR 70D",
+        "Eos 70d",
+        "70D",
+        "70d"
+    ],
+    "EOS D20": [
+        "D20"
+    ],
+    "EOS D30": [
+        "D30"
+    ],
+    "EOS D60": [
+        "EOS D60"
+    ],
+    "EOS D700": [
+        "Rebel D700"
+    ],
+    "EOS M2": [
+        "EOS M2"
+    ],
+    "IXUS 1100": [
+        "IXUS 1100 HS",
+		"ELPH 510HS"
+    ],
+    "IXUS 125": [
+        "IXUS 125 HS"
+    ],
+    "IXUS 135": [
+        "IXUS 135",
+        "IXUS 135 IS"
+    ],
+    "IXUS 145": [
+        "IXUS 145",
+		"ELPH 135",
+        "ELPH135",
+        "PowerShot 135"
+    ],
+    "IXUS 150": [
+        "IXUS 150",
+        "Ixus 150",
+		"ELPH 140IS",
+        "PowerShot 140"
+    ],
+    "IXUS 155": [
+        "IXUS 155",
+        "Ixus 155",
+		"ELPH 150",
+        "ELPH 150IS",
+        "ELPH150IS"
+    ],
+    "IXUS 240": [
+        "IXUS 240 HS"
+    ],
+    "IXUS 255": [
+        "IXUS 255 HS",
+		"ELPH 330"
+    ],
+    "IXUS 265": [
+        "IXUS 265 HS",
+        "Ixus 265 HS",
+		"ELPH 340",
+        "PowerShot 340"
+    ],
+    "IXUS 310": [
+        "IXUS 310 HS",
+        "310HS",
+		"ELPH 500",
+        "ELPH500HS"
+    ],
+    "IXUS 510": [
+        "IXUS 510 HS",
+		"ELPH 530",
+		"Elf 530HS"
+    ],
+    "IXY 120": [
+        "IXY 120"
+    ],
+    "IXY 620F": [
+        "IXY 620F"
+    ],
+    "Kiss x7": [
+        "EOS Kiss x7"
+    ],
+    "PowerShot 350": [
+        "PowerShot 350"
+    ],
+    "PowerShot A1000": [
+        "A1000",
+        "A1000IS"
+    ],
+    "PowerShot A1100": [
+        "A1100"
+    ],
+    "PowerShot A1200": [
+        "A1200"
+    ],
+    "PowerShot A1300": [
+        "A1300"
+    ],
+    "PowerShot A1400": [
+        "A1400"
+    ],
+    "PowerShot A20": [
+        "A20"
+    ],
+    "PowerShot A200": [
+        "A200"
+    ],
+    "PowerShot A2000": [
+        "A2000"
+    ],
+    "PowerShot A2100": [
+        "A2100"
+    ],
+    "PowerShot A2200": [
+        "A2200"
+    ],
+    "PowerShot A2300": [
+        "A2300",
+        "PowerShot Digital A2300"
+    ],
+    "PowerShot A2400": [
+        "A2400"
+    ],
+    "PowerShot A2500": [
+        "A2500"
+    ],
+    "PowerShot A2600": [
+        "A2600"
+    ],
+    "PowerShot A300": [
+        "A300"
+    ],
+    "PowerShot A3000": [
+        "A3000",
+        "A3000IS"
+    ],
+    "PowerShot A310": [
+        "A310"
+    ],
+    "PowerShot A3100": [
+        "A3100",
+        "A3100IS"
+    ],
+    "PowerShot A3200": [
+        "A3200"
+    ],
+    "PowerShot A3300": [
+        "A3300"
+    ],
+    "PowerShot A3400": [
+        "A3400",
+        "A34000",
+        "A3400IS"
+    ],
+    "PowerShot A3500": [
+        "A3500"
+    ],
+    "PowerShot A40": [
+        "A40"
+    ],
+    "PowerShot A400": [
+        "A400"
+    ],
+    "PowerShot A4000": [
+        "A4000",
+        "A4000IS"
+    ],
+    "PowerShot A410": [
+        "A410"
+    ],
+    "PowerShot A420": [
+        "A420"
+    ],
+    "PowerShot A430": [
+        "A430"
+    ],
+    "PowerShot A460": [
+        "A460"
+    ],
+    "PowerShot A470": [
+        "A470"
+    ],
+    "PowerShot A480": [
+        "A480"
+    ],
+    "PowerShot A490": [
+        "A490"
+    ],
+    "PowerShot A495": [
+        "A495"
+    ],
+    "PowerShot A50": [
+        "A50"
+    ],
+    "PowerShot A510": [
+        "A510"
+    ],
+    "PowerShot A520": [
+        "A520"
+    ],
+    "PowerShot A530": [
+        "A530"
+    ],
+    "PowerShot A540": [
+        "A540"
+    ],
+    "PowerShot A550": [
+        "A550"
+    ],
+    "PowerShot A560": [
+        "A560"
+    ],
+    "PowerShot A570": [
+        "A570",
+        "A570IS"
+    ],
+    "PowerShot A580": [
+        "A580"
+    ],
+    "PowerShot A590": [
+        "A590",
+        "A590IS"
+    ],
+    "PowerShot A60": [
+        "A60"
+    ],
+    "PowerShot A610": [
+        "A610"
+    ],
+    "PowerShot A620": [
+        "A620"
+    ],
+    "PowerShot A630": [
+        "A630"
+    ],
+    "PowerShot A640": [
+        "A640"
+    ],
+    "PowerShot A650": [
+        "A650"
+    ],
+    "PowerShot A70": [
+        "A70"
+    ],
+    "PowerShot A700": [
+        "A700"
+    ],
+    "PowerShot A710": [
+        "A710"
+    ],
+    "PowerShot A720": [
+        "A720",
+        "A720IS"
+    ],
+    "PowerShot A75": [
+        "A75"
+    ],
+    "PowerShot A80": [
+        "A80"
+    ],
+    "PowerShot A800": [
+        "A800"
+    ],
+    "PowerShot A810": [
+        "A810"
+    ],
+    "PowerShot A85": [
+        "A85"
+    ],
+    "PowerShot A95": [
+        "A95"
+    ],
+    "PowerShot D10": [
+        "D10"
+    ],
+    "PowerShot E1": [
+        "E1"
+    ],
+    "PowerShot G1": [
+        "G1"
+    ],
+    "PowerShot G10": [
+        "G10"
+    ],
+    "PowerShot G11": [
+        "G11"
+    ],
+    "PowerShot G12": [
+        "G12",
+        "PowerShot 12"
+    ],
+    "PowerShot G15": [
+        "G15"
+    ],
+    "PowerShot G16": [
+        "G16",
+        "PowerShot 16"
+    ],
+    "PowerShot G2": [
+        "G2"
+    ],
+    "PowerShot G3": [
+        "G3"
+    ],
+    "PowerShot G5": [
+        "G5"
+    ],
+    "PowerShot G5 X": [
+        "PowerShot 5X"
+    ],
+    "PowerShot G6": [
+        "G6"
+    ],
+    "PowerShot G7": [
+        "G7"
+    ],
+    "PowerShot G7X": [
+        "G7X"
+    ],
+    "PowerShot G9": [
+        "G9"
+    ],
+	"Powershot N": [
+        "N 12"
+    ],
+    "PowerShot N100": [
+        "N100"
+    ],
+    "PowerShot N2": [
+        "POWERSHOT N2"
+    ],
+    "PowerShot PRO90": [
+        "PRO90"
+    ],
+    "PowerShot S1": [
+        "S1"
+    ],
+    "PowerShot S100": [
+        "S100"
+    ],
+    "PowerShot S110": [
+        "S110"
+    ],
+    "PowerShot S120": [
+        "S120"
+    ],
+    "PowerShot S2": [
+        "S2"
+    ],
+    "PowerShot S20": [
+        "S20"
+    ],
+    "PowerShot S200": [
+        "S200"
+    ],
+    "PowerShot S3": [
+        "S3"
+    ],
+    "PowerShot S30": [
+        "S30"
+    ],
+    "PowerShot S330": [
+        "S330"
+    ],
+    "PowerShot S40": [
+        "S40"
+    ],
+    "PowerShot S400": [
+        "S400",
+		"IXUS 400"
+    ],
+    "PowerShot S45": [
+        "S45"
+    ],
+    "PowerShot S5": [
+        "S5IS",
+        "S51S"
+    ],
+    "PowerShot S50": [
+        "S50"
+    ],
+    "PowerShot S500": [
+        "S500"
+    ],
+    "PowerShot S60": [
+        "S60"
+    ],
+    "PowerShot S70": [
+        "S70"
+    ],
+    "PowerShot S80": [
+        "S80"
+    ],
+    "PowerShot S90": [
+        "S90"
+    ],
+    "PowerShot S95": [
+        "S95"
+    ],
+    "PowerShot SD200": [
+        "PowerShot Digital SD200",
+		"IXUS 30",
+        "PC1102"
+    ],
+    "PowerShot SD600": [
+        "PowerShot Digital SD600",
+		"IXUS 60"
+    ],
+    "PowerShot SD790": [
+        "PowerShot Digital SD790",
+		"IXUS 90 IS"
+    ],
+    "PowerShot SD880": [
+        "PowerShot Digital SD880",
+		"IXUS 870 IS"
+    ],
+    "PowerShot TX1": [
+        "TX1"
+    ],
+    "Rebel 2000": [
+        "Rebel 2000"
+    ],
+    "Rebel 3TI": [
+        "Rebel 3TI"
+    ],
+    "Rebel T1": [
+        "EOS T1"
+    ],
+    "PowerShot S410": [
+        "ELPH S410",
+		"IXUS 430"
+    ],
+    "SD100": [
+        "SD100"
+    ],
+    "SD1000": [
+        "SD1000",
+		"IXUS 70"
+    ],
+    "SD1100": [
+        "SD1100",
+        "SD1100IS",
+		"IXUS 80 IS",
+        "IXUS 80 Is"
+    ],
+    "SD1200": [
+        "SD1200",
+		"IXUS 95 IS"
+    ],
+    "SD1300": [
+        "SD1300",
+        "SD1300IS",
+		"IXUS 105",
+        "IXUS 105 IS"
+    ],
+    "SD1400": [
+        "SD1400",
+		"IXUS 130",
+        "IXUS 130 IS"
+    ],
+    "SD30": [
+        "SD30"
+    ],
+    "SD300": [
+        "SD300",
+		"IXUS 40"
+    ],
+    "SD3500": [
+        "SD3500",
+		"IXUS 210",
+        "IXUS 210 IS"
+    ],
+    "SD40": [
+        "SD40"
+    ],
+    "SD400": [
+        "SD400"
+    ],
+    "SD4000": [
+        "SD4000",
+        "SD4000IS",
+		"IXUS 300 HS",
+        "IXUS 300HS"
+    ],
+    "SD430": [
+        "SD430"
+    ],
+    "SD450": [
+        "SD450",
+		"IXUS 55"
+    ],
+    "SD4500": [
+        "SD4500",
+        "SD4500IS",
+		"IXUS 1000 HS"
+    ],
+    "SD500": [
+        "ELPH SD500",
+        "SD500",
+		"IXUS 700"
+    ],
+    "SD550": [
+        "SD550",
+		"IXUS 750"
+    ],
+    "SD600": [
+        "SD600"
+    ],
+    "SD630": [
+        "SD630",
+		"IXUS 65"
+    ],
+    "SD700": [
+        "SD700",
+		"IXUS 800 IS"
+    ],
+    "SD750": [
+        "SD750",
+		"IXUS 75"
+    ],
+    "SD770": [
+        "SD770IS",
+		"IXUS 85 IS"
+    ],
+    "SD780": [
+        "SD780",
+        "SD780IS",
+		"IXUS 100 IS"
+    ],
+    "SD790": [
+        "SD790",
+        "SD790IS"
+    ],
+    "SD800": [
+        "ELPH SD800",
+        "SD800IS",
+		"IXUS 850"
+    ],
+    "SD850": [
+        "SD850",
+		"IXUS 950 IS"
+    ],
+    "SD870": [
+        "SD870",
+        "SD870IS",
+		"IXUS 860"
+    ],
+    "SD880": [
+        "ELPH SD880",
+		"SD880IS"
+    ],
+    "SD890": [
+        "SD890",
+        "SD890IS",
+		"IXUS 970 IS"
+    ],
+    "SD900": [
+        "ELPH SD900",
+        "SD900",
+		"IXUS 900 Ti"
+    ],
+    "SD940": [
+        "SD940",
+		"IXUS 120 IS"
+    ],
+    "SD950": [
+        "SD950",
+        "SD950IS",
+		"IXUS 960 IS"
+    ],
+    "SD960": [
+        "SD960",
+        "SD960IS",
+		"IXUS 110 IS"
+    ],
+    "SD970": [
+        "SD970 IS",
+		"IXUS 990 IS"
+    ],
+    "SD980": [
+        "SD980",
+		"IXUS 200 IS"
+    ],
+    "SD990": [
+        "SD990",
+		"IXUS 980 IS"
+    ],
+    "SX1": [
+        "SX1"
+    ],
+    "SX10": [
+        "SX10",
+        "Sx10"
+    ],
+    "SX100": [
+        "SX100",
+        "SX100IS"
+    ],
+    "SX110": [
+        "SX110"
+    ],
+    "SX120": [
+        "SX120"
+    ],
+    "SX130": [
+        "SX130",
+        "SX130IS"
+    ],
+    "SX130 IS": [
+        "PowerShot 130"
+    ],
+    "SX150": [
+        "SX150"
+    ],
+    "SX150 IS": [
+        "PowerShot 150"
+    ],
+    "SX160": [
+        "SX160"
+    ],
+    "SX170": [
+        "SX170"
+    ],
+    "SX20": [
+        "SX20",
+        "SX20IS",
+        "Sx20"
+    ],
+    "SX20 IS": [
+        "PowerShot 20"
+    ],
+    "SX200": [
+        "SX200",
+        "SX200IS"
+    ],
+    "SX210": [
+        "SX210"
+    ],
+    "SX220": [
+        "SX220"
+    ],
+    "SX230": [
+        "SX230",
+        "SX230HS"
+    ],
+    "SX240": [
+        "SX240"
+    ],
+    "SX260": [
+        "SX260"
+    ],
+    "SX270": [
+        "SX270",
+        "SX270HS"
+    ],
+    "SX280": [
+        "SX280",
+        "SX280HS"
+    ],
+    "SX30": [
+        "SX30",
+        "SX30IS",
+        "Sx30"
+    ],
+    "SX40": [
+        "SX40",
+        "Sx40"
+    ],
+    "SX400": [
+        "SX400"
+    ],
+    "SX50": [
+        "SX50",
+        "Sx50"
+    ],
+    "SX500": [
+        "SX500"
+    ],
+    "SX510": [
+        "SX510",
+        "SX510HS"
+    ],
+    "SX520": [
+        "SX520"
+    ],
+    "SX60": [
+        "SX60"
+    ],
+    "SX600": [
+        "SX600"
+    ],
+    "SX700": [
+        "SX700"
+    ],
+    "XF200": [
+        "XF200"
+    ]
+}
