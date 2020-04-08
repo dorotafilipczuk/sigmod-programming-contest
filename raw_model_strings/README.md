@@ -4,7 +4,7 @@
 - [x] caliber   
 - [ ] canon   
 - [x] casio   
-- [ ] coleman   
+- [x] coleman   
 - [ ] contax   
 - [x] easypix   
 - [x] epson (couldn't find any match)
