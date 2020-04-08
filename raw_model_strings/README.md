@@ -1,0 +1,47 @@
+- [ ] agfa   
+- [ ] aiptek   
+- [ ] bushnell   
+- [ ] caliber   
+- [ ] canon   
+- [ ] casio   
+- [ ] coleman   
+- [ ] contax   
+- [ ] easypix   
+- [ ] epson   
+- [x] fujifilm   
+- [x] fujitsu   
+- [ ] ge   
+- [ ] hasselblad   
+- [ ] hitachi   
+- [ ] hp   
+- [ ] htc   
+- [ ] intova   
+- [ ] ion   
+- [ ] kodak   
+- [ ] konica minolta   
+- [ ] kyocera   
+- [ ] leica   
+- [ ] logitech   
+- [ ] lytro   
+- [ ] minox   
+- [ ] nikon   
+- [ ] nokia   
+- [ ] olympus   
+- [x] panasonic   
+- [ ] pentax   
+- [ ] philips   
+- [ ] polaroid   
+- [ ] praktica   
+- [ ] ricoh   
+- [ ] sakar   
+- [x] samsung   
+- [ ] sanyo   
+- [ ] sealife   
+- [ ] sigma   
+- [x] sony   
+- [ ] space   
+- [ ] toshiba   
+- [ ] trust   
+- [ ] vista quest   
+- [ ] vivitar   
+- [ ] yashica   
