@@ -12,7 +12,7 @@
 - [x] fujitsu   
 - [ ] ge   
 - [ ] hasselblad   
-- [ ] hitachi   
+- [x] hitachi   
 - [ ] hp   
 - [ ] htc   
 - [ ] intova   
