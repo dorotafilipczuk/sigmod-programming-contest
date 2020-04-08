@@ -19,9 +19,9 @@
 - [x] ion   
 - [x] kodak   
 - [x] konica minolta   
-- [ ] kyocera   
-- [ ] leica   
-- [ ] logitech   
+- [x] kyocera   
+- [x] leica   
+- [x] logitech   
 - [ ] lytro   
 - [ ] minox   
 - [ ] nikon   
