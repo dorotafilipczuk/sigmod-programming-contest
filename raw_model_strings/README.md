@@ -14,7 +14,7 @@
 - [x] hasselblad   
 - [x] hitachi   
 - [x] hp   
-- [ ] htc   
+- [x] htc   
 - [ ] intova   
 - [ ] ion   
 - [ ] kodak   
