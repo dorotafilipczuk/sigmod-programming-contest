@@ -30,7 +30,7 @@
 - [x] panasonic   
 - [ ] pentax   
 - [ ] philips   
-- [ ] polaroid   
+- [x] polaroid (couldn't find any match)
 - [ ] praktica   
 - [ ] ricoh   
 - [ ] sakar   
