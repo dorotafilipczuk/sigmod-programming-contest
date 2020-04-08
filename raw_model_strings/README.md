@@ -6,7 +6,7 @@
 - [ ] casio   
 - [ ] coleman   
 - [ ] contax   
-- [ ] easypix   
+- [x] easypix   
 - [ ] epson   
 - [x] fujifilm   
 - [x] fujitsu   
