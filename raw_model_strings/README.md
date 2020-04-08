@@ -7,7 +7,7 @@
 - [ ] coleman   
 - [ ] contax   
 - [x] easypix   
-- [ ] epson   
+- [x] epson (couldn't find any match)
 - [x] fujifilm   
 - [x] fujitsu   
 - [ ] ge   
