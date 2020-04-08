@@ -5,7 +5,7 @@
 - [ ] canon   
 - [x] casio   
 - [x] coleman   
-- [ ] contax   
+- [x] contax   
 - [x] easypix   
 - [x] epson (couldn't find any match)
 - [x] fujifilm   
